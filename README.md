@@ -1,4 +1,4 @@
-# Electron + Svelte + TailwindCSS 2.0 + RollupJS starter
+# Electron + Svelte + TailwindCSS 3.0 + RollupJS starter
 
 Starter template for [Electron](https://www.electronjs.org/) + [Svelte](https://svelte.dev) + [TailwindCSS](https://tailwindcss.com) apps.
 
@@ -8,7 +8,7 @@ Features:
 
 - Electron 15
 - Svelte 3
-- TailwindCSS 2
+- TailwindCSS 3
 - Rollup
 - SCSS support
 

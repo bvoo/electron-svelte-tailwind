@@ -17,6 +17,7 @@
     "purple",
     "pink",
   ];
+
   const shades = [100, 200, 300, 400, 500, 600, 700, 800, 900];
 
   let color = randomColor();
@@ -24,7 +25,9 @@
 
   function clickMe() {
     color = randomColor();
+    console.log(color);
     shade = randomShade();
+    console.log(shade);
   }
 
   function randomColor() {
@@ -72,7 +75,7 @@
         Click Me
       </button>
     </div>
-
+    <!-- i think it is donowalling it because sometimes it works i thin-->
     <div>
       <h1 class="text-svelte-orange">Orange text styled from SCSS</h1>
     </div>
